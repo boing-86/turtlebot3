@@ -33,7 +33,7 @@ Turtlebot3의 ROS SLAM 노드 기능으로 OCM을 제작 및 생성하고 이를
 - SLAM Method : 자료 20번 페이지 확인 **(frontier-exploration은 사용하지 않음!)**
 
 
-[https://docs.google.com/presentation/d/1KyqPdBlptrzix6nM5AJBdZVGSbnsazzV/edit?usp=sharing&ouid=117068550395131455410&rtpof=true&sd=true](발표 자료 Google Drive Link)
+[발표 자료 Google Drive Link](https://docs.google.com/presentation/d/1KyqPdBlptrzix6nM5AJBdZVGSbnsazzV/edit?usp=sharing&ouid=117068550395131455410&rtpof=true&sd=true)
 
 ![슬라이드1](https://user-images.githubusercontent.com/54930076/174224370-77082f65-9633-4fda-bcf3-63e96954803a.png)
 ![슬라이드2](https://user-images.githubusercontent.com/54930076/174224377-3b1bee83-4a0c-4ca5-b83a-49047bee299f.png)
